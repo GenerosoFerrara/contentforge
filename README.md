@@ -2,7 +2,7 @@
 
 An AI-powered eCommerce content generator built with React.js and the Claude API (Anthropic). Generates product descriptions, SEO meta tags, email campaigns, social captions, and abandoned cart recovery emails — in multiple languages and tones.
 
-🔗 **Live demo:** https://contentforge.vercel.app *(update after deploy)*
+🔗 **Live demo:** https://contentforge-olive.vercel.app/
 
 ## Features
 
